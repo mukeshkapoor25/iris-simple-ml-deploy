@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your_dockerhub_username/iris-simple-ml-api:latest
+        tags: mukeshkk25/iris-simple-ml-api:latest
